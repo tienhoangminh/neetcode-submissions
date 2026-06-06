@@ -1,0 +1,9 @@
+Question for this ex:
+  1. Brute force đang tính lại cái gì?
+  
+  2. Có intermediate result nào được dùng nhiều lần không?
+  
+  3. Intermediate result đó có thể cache không?
+  
+  4. Cache đó có thực sự cần cả mảng không?
+     Hay chỉ cần vài state gần nhất?
